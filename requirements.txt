@@ -1,0 +1,6 @@
+streamlit
+moviepy
+whisper
+faster_whisper
+TTS
+googletrans
