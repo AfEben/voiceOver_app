@@ -4,3 +4,4 @@ whisper
 faster_whisper
 TTS
 googletrans
+streamlit_player
